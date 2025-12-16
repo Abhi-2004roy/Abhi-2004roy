@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I am Abhishek Roy an underGrad student working on specialization Artificial Intelligence and Machine Learning
+
+🔭 I am currently working on my Project - MED-LANE for a techackathon , learning javascript and Python for machine larning
+
+🤔 i currently use html , java , C , c++ , javascript (bsics) and python(basics)
+
+📫 you can reach me through my Linkedin profile 
+
+thank you for stopping by 😊😊
