@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 😄 I am Abhishek Roy an underGrad student working on specialization Artificial Intelligence and Machine Learning
 
-🔭 I am currently working on my Project - MED-LANE for a techackathon , learning javascript and Python for machine larning
+🔭 I am currently working on my Project - INUDSTRIAL AI for a personal project , learning javascript , react , nodejs and reaact native for mobile application and using a headless architecture
 
-🤔 i currently use html , java , C , c++ , javascript (bsics) and python(basics)
+🤔 i currently use html , react , C , c++ , javascript (bsics) and python(basics)
 
 📫 you can reach me through my Linkedin profile 
 
